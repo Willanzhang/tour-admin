@@ -69,7 +69,7 @@ class Login extends Component {
     return (
       <div className="flex flex-justify-center flex-align-center login-container">
         <div className="login">
-          <div className="login-head">智慧云票务旅游景区系统</div>
+          <div className="login-head">景区后台</div>
           <div className="login-body">
           <Form onSubmit={this.handleSubmit} className="login-form">
               <FormItem className="custom-form-item">
